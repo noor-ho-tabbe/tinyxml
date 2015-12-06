@@ -49,7 +49,7 @@ void TiXmlString::reserve (size_type cap)
 		swap(tmp);
 	}
 }
-
+//
 
 TiXmlString& TiXmlString::assign(const char* str, size_type len)
 {
